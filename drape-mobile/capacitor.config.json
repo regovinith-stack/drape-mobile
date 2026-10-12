@@ -1,0 +1,10 @@
+{
+  "appId": "com.yourname.drape",
+  "appName": "Drape",
+  "webDir": "www",
+  "backgroundColor": "#231733",
+  "plugins": {
+    "CapacitorHttp": { "enabled": true },
+    "LocalNotifications": { "iconColor": "#D6336C" }
+  }
+}
